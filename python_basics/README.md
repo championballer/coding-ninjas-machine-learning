@@ -8,7 +8,7 @@ Following is the list of files and the order that should be followed to get a go
 1. introToPython(covers I/O, Strings, Typecasting, Tuples, Slicing, Spliting, Math operators, etc.)
 2. Lists(covers list datatype of python and related concepts such as slicing, taking input as input list,etc.)
 3. Dictionaries(covers dictionary datatype and related concepts)
-4. Conditions and Loops(covers bool, indentation rules, conditionals,logical operators, loops, range function, loops)
+4. Conditions and Loops(covers bool, indentation rules, conditionals,logical operators, loops, range function, loops, functions,packing and unpacking)
 5. Modules(covers how to import whole files and part of files in python and how to use them with the help of numpy and pandas)
 
 ```
