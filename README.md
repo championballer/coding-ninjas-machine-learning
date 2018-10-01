@@ -10,11 +10,10 @@ The following algorithms are implemented and used in this repository:
 2. Logistic Regression
 3. Decision Trees
 4. Random Forests
-
-4. KNN
-5. SVM
-6. Neural Networks
-7. CNN
+5. KNN
+6. SVM
+7. Neural Networks
+8. CNN
 ```
 
 The following is the list of folders to go through in order to have a logical order of things:
