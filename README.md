@@ -18,4 +18,4 @@ The following algorithms are implemented and used in this repository:
 
 The following is the list of folders to go through in order to have a logical order of things:
 
-1. pyhton_basics
+1. python_basics
