@@ -1,10 +1,13 @@
 # Machine Learning
 
-|S.no| Lecture | Status|
-|----|---------|-------|
-|1|Python Basics||
-|2|Conditionals, Loops and Functions||
-|3|Lists and Dictionaries||
+- ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `Complete`
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Incomplete`
+
+|S.no| Lecture | Status| Notes|
+|----|---------|-------| ---- |
+|1|Python Basics|![#c5f015](https://placehold.it/15/c5f015/000000?text=+)||
+|2|Conditionals, Loops and Functions|![#c5f015](https://placehold.it/15/c5f015/000000?text=+)||
+|3|Lists and Dictionaries|||
 |4|2D Lists and Numpy||
 |5|Pandas||
 |6|Plotting Graphs||
