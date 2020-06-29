@@ -28,17 +28,18 @@
 |22|Support Vector Machines||
 |23|Principal Component Analysis||
 |24|Principal Component Analysis - 2||
-|25|Natural Language Processing - 1||
-|26|Natural Language Processing - 2||
-|27|Project - Twitter Sentiment Analysis||
-|28|Git||
-|29|Neural Networks - 1||
-|30|Neural Networks - 2||
-|31|Tensorflow||
-|32|Keras||
-|33|Convolutional Neural Networks - 1||
-|34|Convolutional Neural Networks - 2||
-|35|Recurrent Neural Networks||
-|36|LSTM||
-|37|Unsupervised Learning - 1||
-|38|Unsupervised Learning - 2||
+|25|Project - CIFAR10||
+|26|Natural Language Processing - 1||
+|27|Natural Language Processing - 2||
+|28|Project - Twitter Sentiment Analysis||
+|29|Git||
+|30|Neural Networks - 1||
+|31|Neural Networks - 2||
+|32|Tensorflow||
+|33|Keras||
+|34|Convolutional Neural Networks - 1||
+|35|Convolutional Neural Networks - 2||
+|36|Recurrent Neural Networks||
+|37|LSTM||
+|38|Unsupervised Learning - 1||
+|39|Unsupervised Learning - 2||
