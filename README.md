@@ -10,7 +10,7 @@
 |4|2D Lists and Numpy|![#c5f015](https://placehold.it/15/c5f015/000000?text=+)|[Here](/Module-4-2DLists-and-Numpy/Module-4-Class-Notes.pdf)|
 |5|Pandas|![#c5f015](https://placehold.it/15/c5f015/000000?text=+)|[Here](/Module-5-Pandas/Module-5-Class-Notes.pdf)|
 |6|Plotting Graphs|![#c5f015](https://placehold.it/15/c5f015/000000?text=+)|[Here](/Module-6-Plotting-Graphs/Module-6-Class-Notes.pdf)|
-|7|Introduction to Machine Learning||
+|7|Introduction to Machine Learning|![#c5f015](https://placehold.it/15/c5f015/000000?text=+)|[Here](/Module-7-Introduction-to-Machine-Learning/Module-7-Class-Notes-Theory.pdf)|
 |8|Linear Regression||
 |9|Multi-variable Regression and Gradient Descent||
 |10|Project - Gradient Descent||
