@@ -4,15 +4,15 @@
 
 |S.no| Lecture | Status| Notes|
 |----|---------|-------| ---- |
-|1|Python Basics|![#c5f015](https://placehold.it/15/c5f015/000000?text=+)|[Here](/Module-1-Python-Basics/Module-1-Class-Notes.pdf)|
-|2|Conditionals, Loops and Functions|![#c5f015](https://placehold.it/15/c5f015/000000?text=+)|[Here](/Module-2-Conditionals-Loops-and-Functions/Module-2-Class-Notes.pdf)|
-|3|Lists and Dictionaries|![#c5f015](https://placehold.it/15/c5f015/000000?text=+)|[Here](/Module-3-Lists-and-Dictionaries/Module-3-Class-Notes.pdf)|
-|4|2D Lists and Numpy|![#c5f015](https://placehold.it/15/c5f015/000000?text=+)|[Here](/Module-4-2DLists-and-Numpy/Module-4-Class-Notes.pdf)|
-|5|Pandas|![#c5f015](https://placehold.it/15/c5f015/000000?text=+)|[Here](/Module-5-Pandas/Module-5-Class-Notes.pdf)|
-|6|Plotting Graphs|![#c5f015](https://placehold.it/15/c5f015/000000?text=+)|[Here](/Module-6-Plotting-Graphs/Module-6-Class-Notes.pdf)|
-|7|Introduction to Machine Learning|![#c5f015](https://placehold.it/15/c5f015/000000?text=+)|[Here](/Module-7-Introduction-to-Machine-Learning/Module-7-Class-Notes-Theory.pdf)|
-|8|Linear Regression|![#c5f015](https://placehold.it/15/c5f015/000000?text=+)|[Here](/Module-8-Linear-Regression/Module-8-Linear-Regression-Theory.pdf)|
-|9|Multi-variable Regression and Gradient Descent||
+|1|Python Basics|![#c5f015](https://placehold.it/15/c5f015/000000?text=+)|[Here](/Module-01-Python-Basics/Module-1-Class-Notes.pdf)|
+|2|Conditionals, Loops and Functions|![#c5f015](https://placehold.it/15/c5f015/000000?text=+)|[Here](/Module-02-Conditionals-Loops-and-Functions/Module-2-Class-Notes.pdf)|
+|3|Lists and Dictionaries|![#c5f015](https://placehold.it/15/c5f015/000000?text=+)|[Here](/Module-03-Lists-and-Dictionaries/Module-3-Class-Notes.pdf)|
+|4|2D Lists and Numpy|![#c5f015](https://placehold.it/15/c5f015/000000?text=+)|[Here](/Module-04-2DLists-and-Numpy/Module-4-Class-Notes.pdf)|
+|5|Pandas|![#c5f015](https://placehold.it/15/c5f015/000000?text=+)|[Here](/Module-05-Pandas/Module-5-Class-Notes.pdf)|
+|6|Plotting Graphs|![#c5f015](https://placehold.it/15/c5f015/000000?text=+)|[Here](/Module-06-Plotting-Graphs/Module-6-Class-Notes.pdf)|
+|7|Introduction to Machine Learning|![#c5f015](https://placehold.it/15/c5f015/000000?text=+)|[Here](/Module-07-Introduction-to-Machine-Learning/Module-7-Class-Notes-Theory.pdf)|
+|8|Linear Regression|![#c5f015](https://placehold.it/15/c5f015/000000?text=+)|[Here](/Module-08-Linear-Regression/Module-8-Linear-Regression-Theory.pdf)|
+|9|Multi-variable Regression and Gradient Descent|![#c5f015](https://placehold.it/15/c5f015/000000?text=+)|[Here](/Module-09-Multivariate-Regression-and-Gradient-Descent/Lecture-9-Multivariate-Regression-and-Gradient-Descent-Theory.pdf)|
 |10|Project - Gradient Descent||
 |11|Logistic Regression||
 |12|Project - Logistic Regression||
