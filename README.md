@@ -14,9 +14,9 @@
 |8|Linear Regression|![#c5f015](https://placehold.it/15/c5f015/000000?text=+)|[Here](/Module-08-Linear-Regression/Module-8-Linear-Regression-Theory.pdf)|
 |9|Multi-variable Regression and Gradient Descent|![#c5f015](https://placehold.it/15/c5f015/000000?text=+)|[Here](/Module-09-Multivariate-Regression-and-Gradient-Descent/Lecture-9-Multivariate-Regression-and-Gradient-Descent-Theory.pdf)|
 |10|Project - Gradient Descent|![#c5f015](https://placehold.it/15/c5f015/000000?text=+)||
-|11|Logistic Regression|![#c5f015](https://placehold.it/15/c5f015/000000?text=+)|[Here](/Module-11-Logistic-Regression/Lecture-11-Logistic-Regression-Theory.pdf)|
+|11|Logistic Regression|![#c5f015](https://placehold.it/15/c5f015/000000?text=+)|[Here](/Module-11-Logistic-Regression/Module-11-Logistic-Regression-Theory.pdf)|
 |12|Project - Logistic Regression|![#c5f015](https://placehold.it/15/c5f015/000000?text=+)||
-|13|Classification Measures|![#c5f015](https://placehold.it/15/c5f015/000000?text=+)|[Here](/Module-13-Classification-Measures/Lecture-13-Classification-Measures.pdf)|
+|13|Classification Measures|![#c5f015](https://placehold.it/15/c5f015/000000?text=+)|[Here](/Module-13-Classification-Measures/Module-13-Classification-Measures.pdf)|
 |14|Decision Trees - 1||
 |15|Decision Trees - 2||
 |16|Project - Decision Tree Implementation||
